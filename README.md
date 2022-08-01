@@ -11,7 +11,7 @@
 
 ### :zap: Experties
 
-1. Mean
+1. MEAN
 2. MERN
 3. MEVN
 
