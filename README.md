@@ -14,6 +14,5 @@
 1. Mean
 2. MERN
 3. MEVN
-4. Vue.js
 
 
