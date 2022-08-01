@@ -9,3 +9,10 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am always hungry for programming
 
+### :zap: Experties
+
+1. Mean
+2. MERN
+3. MEVN
+
+
